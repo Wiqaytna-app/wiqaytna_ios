@@ -1,0 +1,152 @@
+// OTP
+"WrongNumber" = "رقم خاطئ؟";
+
+"WrongOTP" = "الرمز الذي تم إدخاله غير صحيح";
+
+"NotAValidCode" = "الكود الذي تم إدخاله غير صحيح";
+"DataUploaded" = "تم تحميل البيانات للاتصال بمقتفي التتبع";
+"DataNotUploaded" = "لم يتم تحميل البيانات";
+"Upload failed" = "التحميل فشل. الرجاء معاودة المحاولة في وقت لاحق";
+
+"ShareMessage" = "انضموا إلي لوقف انتشار COVID-19!قوموا بتنزيل   تطبيق وقايتنا . على : www.wiqaytna.ma";
+
+"SingUpTitle" = "تسجيل رقم هاتفك المحمول";
+
+"StopCovidTitle" = "ساعد في وقف إنتشار الفيروس عن طريق تشغيل البلوتوث";
+
+// Language
+"langFR" = "Français";
+"langAR" = "العربية";
+
+// Intro Screen
+"IntroCovidTitle" = "لنساهم جميعا في الحد من انتشار فيروس كورونا المستجد";
+"IntroCovidSubTitle" = "المرجو إدخال الهاتف و تفعيل البلوتوث للإستفادة الكاملة من خدمات التطبيق";
+"IntroConditionsTitle" = "كيف يعمل التطبيق ؟";
+"IntroConditionsOne" = "هذا التطبيق يستعمل بلوتوث هاتفك لتسجيل أجهزة الأشخاص الذين قابلتهم بعد تحميلك للتطبيق";
+"IntroConditionsTwo" = "يشعرك التطبيق في حالة مخالطتك لمستعمل تأكدت إصابته بفيروس كورونا المستجد كوفيد-19";
+"IntroConditionsThree" = "اتبع التوصيات التي سيتم إشعارك بها من طرف وزارة الصحة";
+"IntroConditionsLink" = "شروط الاستعمال";
+"IntroJeVeuxAider" = "تابع";
+
+// Send SMS Screen
+"SmsTitle" = "المرجو إدخال رقم هاتفك المحمول";
+"SmsLabelTextField" = " ";
+"SmsNote" = "ستتوصل برسالة قصيرة (SMS) تحتوي على رقم التأكيد (الكود)\n\nرقم التأكيد سيبقى صالحاً لمدة 2 دقائق";
+"SmsButtonSend" = "احصل على رقم التأكيد";
+
+// OTP Screen
+"OtpEnterOTPSent" = "المرجو إدخال رقم التأكيد الذي توصلت به في الرسالة القصيرة (SMS)";
+"OtpLabelTextField" = "رقم التأكيد";
+"OtpCodeWillExpired" = "إذا لم تتمكن من تلقي الرمز ، يمكنك إعادة طلبه مرة أخرى خلال دقيقتين";
+"CodeHasExpired" = "انتهت صلاحية الرمز الخاص بك.";
+"InvalidOTP" = "الكود الذي تم إدخاله غير صحيح";
+"ResendCode" = "أعد إرسال الرمز";
+"OtpButtonVerify" = "تابع";
+
+// Permission Screen
+"PermissionTitle" = "المرجو تفعيل الخاصيات اللازمة لتشغيل التطبيق";
+"PermissionSubTitle" = "تشغيل التطبيق يستلزم تفعيل الخاصيات التالية";
+"PermissionBluetoothP" = "ربط البلوتوث";
+"PermissionBluetoothA" = "تفعيل البلوتوث";
+"PermissionNotifications" = "تفعيل الإشعارات";
+"PermissionButtonNext" = "تابع";
+
+// SavePower Screen
+"SavePowerTitle" = "نصائح لمستعملي الأيفون (iPhone)";
+"SavePowerSubTitle" = "حافظ على التطبيق مفتوحًا ومفعلاً  طوال الوقت";
+"SavePowerInfo" = "نصائح للحفاظ على البطارية";
+"SavePowerInfoOne" ="• اقلب الهاتف";
+"SavePowerIntoTwo" = "• ابقه مقلوبا في جيبك";
+"SavePowerNote" = "هذا يوفر البطارية، عن طريق السماح لمسح التطبيق مع إيقاف تشغيل شاشة الهاتف.";
+"SavePowerNextButton" = "تابع";
+
+// Home Screen (Dashboard)
+"HomeWelcome" = "التطبيق مفعل";
+"HomeSubWelcome" = "شكرا على  مساهمتك في الحد من انتشار الفيروس";
+"HomeBluetoothTitleDisable" = "التطبيق غير مفعل";
+"HomeBluetoothDisable" = "المرجو تشغيل البلوتوث لتستفيد من خدمات التطبيق و تساهم في الحد من انتشار الفيروس";
+"HomeTitleStatistics" = "إحصائيات عن انتشار الفيروس :";
+
+// Help Screen (Conseil)
+"HelpTitle" = "نصائح";
+"HelpSubTitle" = "المرجواتباع النصائح التالية";
+"HelpAssistanceScientifique" = "المساعدة العلمية";
+"HelpCentreAntiPoison" = "مركز السموم";
+"HelpUrgence" = "الاسعاف";
+"HelpPolice" = "الشرطة";
+"HelpGendarmerie" = "الدرك الملكي";
+
+//Statistics
+"StatisticsTitle" = "آخر الإحصائيات";
+"StatisticsSubTitle" = "آخر تحديث منذ 24 ساعة";
+"StatisticsNombreTotal" = "الإحصائيات منذ بداية الوباء";
+"StatisticsNombreCasConfirmes" = "التقسيم حسب الجهات";
+
+// Settings
+"SettingsAge" = "العمر";
+"SettingsGenre" = "الجنس";
+"SettingsRegion" = "الجهة";
+"SettingsProvince" = "العمالة أو الإقليم";
+"SettingsLangue" = "لغة استعمال التطبيق";
+"SettingsDe18a40" = "15 إلى 25 سنة";
+"SettingsDe40a60" = "26 إلى 40 سنة";
+"SettingsDe60a70" = "41 إلى 65 سنة";
+"SettingsDe70a100" = "66 سنة فأكثر";
+"SettingsFemme" = "أنثى";
+"SettingsHomme" = "ذكر";
+"SettingsFrançais" = "Français";
+"SettingsArabe" = "العربية";
+"SettingsEnregistrer" = "حفظ";
+
+// Upload Data
+"UploadTitle" = "رفع المعطيات";
+"UploadSubTitle" = "استخدم هذه الواجهة فقط إذا اتصلت بك أطقم وزارة الصحة";
+
+"UploadSubTitleStep2" = "إرسال البيانات التي تم جمعها إلى أطقم وزارة الصحة";
+"UploadTitleCodePin" = "المرجو إدخال الرمز السري  الذي توصلت به من طرف أطقم وزارة الصحة لإرسال البيانات";
+"UploadConditionUpload" = 'بإرسالك للمعطيات ، أنت  توافق على مشاركة بيانات Bluetooth المجهولة التي تم جمعها على الهواتف الذكية الأخرى التي كانت قريبة منك طوال الـ 21 يومًا الماضية. تستخدم أطقم وزارة الصحة  هذه البيانات  لإشعار المخالطين باحتمال التعرض لفيروس كورونا المستجد "كوفيد-19"';
+"UploadSuccessMessage" = "شكراً على مساهمتك\n\nلقد توصلت أطقم وزارة الصحة بالبيانات بنجاح";
+
+// Utils KeyWords
+"ShareAppTitle" = "شارك التطبيق";
+"ShareAppSubTitle" = "شارك التطبيق مع عائلتك وأصدقائك ليساهموا بدورهم في الحد من انتشار الفيروس";
+"titleFAQ" = "أسئلة متكررة";
+"textFAQ" = "كل ما تحتاج إلى معرفته";
+"URLFAQ" = "https://www.wiqaytna.ma/Default.aspx#nav-wiqaytna";
+
+"StatusCasConfirmes" = "الحالات المؤكدة";
+"StatusGueris" = "المتعافون";
+"StatusDeces" = "الوفيات";
+
+// Bar Bottom Navigation
+"BarBottomStatistics" = "إحصائيات";
+"BarBottomAccueil" = "الرئيسية";
+"BarBottomConseils" = "نصائح";
+"BarBottomUpload" = "رفع المعطيات";
+
+"ButtonDone" = "تم";
+"ButtonNext" = "تابع";
+"buttonUploadData" = "إرسال البيانات";
+
+"Done" = "تم";
+"Select" = "تحديد";
+"Error" = "خطأ";
+"OK" = "حسنًا";
+
+// Errors
+
+"verification_failed" = "فشل التحقق. حاول مرة اخرى";
+"invalid_number" = "رقم الجوال غير صالح";
+
+"unknown_error" = "حدث خطأ. حاول مرة اخرى";
+"must_be_six_digit" = "يجب أن يتكون من 6 أرقام";
+"invalid_user" = "تم تعطيل حسابك. يرجى الاتصال بفريق الصيانة.";
+"too_many_requests" = "الطلبات كثيرة جدا. الرجاء معاودة المحاولة في وقت لاحق.";
+
+"service_ok_title" = "يقوم   تطبيق وقايتنا بالتحليل للحفاظ على سلامتك! :)";
+"service_ok_body" =    "أعد تشغيل الهاتف إذا اختفى هذا الإشعار";
+"service_not_ok_title" = "تحذير :";
+"service_not_ok_body" = "تطبيق وقايتنا لا يقوم بالفحص";
+"service_not_ok_action" = "تحقق من التطبيق الآن ";
+
+"ble_not_supported" =    "هذا الجهاز لا يدعم  بلوتوث BLE";

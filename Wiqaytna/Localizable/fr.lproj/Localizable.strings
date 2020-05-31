@@ -1,0 +1,150 @@
+"WrongNumber" = "Mauvais numéro?";
+"WrongOTP" = "L'OTP Saisi est incorrect";
+
+"NotAValidCode" = "Le code de vérification saisi est incorrect";
+"DataUploaded" = "Données téléchargées";
+"DataNotUploaded" = "Données non téléchargées";
+"Upload failed" = "Échec d'upload. Veuillez réessayer plus tard";
+ 
+"ShareMessage" = "Rejoignez-moi pour arrêter la propagation de COVID-19! Téléchargez Wiqaytna. Accédez à: www.wiqaytna.ma";
+
+"SingUpTitle" = "Veuillez saisir votre numéro de téléphone";
+
+// Language
+"langFR" = "Français";
+"langAR" = "العربية";
+
+// Intro Screen
+"IntroCovidTitle" = "Participons tous à la lutte contre la propagation du Coronavirus COVID-19";
+"IntroCovidSubTitle" = "Wiqaytna vous notifie si l’une des personnes qui s’est trouvée à proximité de vous récemment est confirmée positive au COVID-19";
+"IntroConditionsTitle" = "Comment ça marche ?";
+"IntroConditionsOne" = "L’application enregistre sur votre téléphone les identifiants anonymes des portables à proximité de vous";
+"IntroConditionsTwo" = "Vous recevrez une notification si vous avez été à proximité d’une personne confirmée positive au COVID-19";
+"IntroConditionsThree" = "Suivez les recommandations du Ministère de la santé qui vous seront notifiées";
+"IntroConditionsLink" = "Conditions générales d'utilisation";
+"IntroJeVeuxAider" = "Continuer";
+
+// Send SMS Screen
+"SmsTitle" = "Veuillez saisir votre numéro de téléphone";
+"SmsLabelTextField" = " ";
+"SmsNote" = "Vous receverez un code par SMS pour confirmer votre numéro de portable.\n\nLe code sera valable pendant 2 minutes.";
+"SmsButtonSend" = "Confirmer";
+
+// OTP Screen
+"OtpEnterOTPSent" = "Veuillez saisir le code de confirmation que vous avez reçu par SMS";
+"OtpLabelTextField" = "Numéro de confirmation";
+"OtpCodeWillExpired" = "Si vous ne pouvez pas recevoir le code, vous pourrez le redemander dans 2min";
+"CodeHasExpired" = "Votre code a expiré.";
+"InvalidOTP" = "L'OTP Saisi est incorrect";
+"ResendCode" = "Renvoyer le code";
+"OtpButtonVerify" = "Vérifier";
+
+// Permission Screen
+"PermissionTitle" = "Veuillez accorder les autorisations nécessaires";
+"PermissionSubTitle" = "Les autorisations suivantes sont nécessaires pour le bon fonctionnement de l'application";
+"PermissionBluetoothP" = "Autorisation du Bluetooth";
+"PermissionBluetoothA" = "Activation du Bluetooth";
+"PermissionNotifications" = "Activation des notifications";
+"PermissionButtonNext" = "Continuer";
+
+// SavePower Screen
+"SavePowerTitle" = "Prenez note pour une utilisation optimale sur iPhone!";
+"SavePowerSubTitle" = "Gardez l’application ouverte et active tout\nle temps pour assurer son bon fonctionnement";
+"SavePowerInfo" = "Voici quelques astuces pour économiser votre batterie :";
+"SavePowerInfoOne" = "• Posez le téléphone sur la face de l’écran";
+"SavePowerIntoTwo" = "• Ou, gardez-le à l’envers dans votre poche";
+"SavePowerNote" = "Cela permet d'économiser la batterie en laissant l'analyse de l'application avec l'écran du téléphone éteint.";
+"SavePowerNextButton" = "C’est compris";
+
+// Home Screen (Dashboard)
+"HomeWelcome" = "Wiqaytna est active";
+"HomeSubWelcome" = "Merci de votre contribution à la lutte contre la propagation du Coronavirus «COVID-19»";
+"HomeBluetoothTitleDisable" = "Wiqaytna est inactive";
+"HomeBluetoothDisable" = "Veuillez activer le Bluetooth de votre portable pour continuer à utiliser l’application.";
+"HomeTitleStatistics" = "Statistiques sur la propagation du virus :";
+
+
+
+// Help Screen (Conseil)
+"HelpTitle" = "Conseils";
+"HelpSubTitle" = "Respectez les conseils suivants pour vous protéger et protéger vos proches";
+"HelpAssistanceScientifique" = "Assistance Scientifique";
+"HelpCentreAntiPoison" = "Centre Anti Poison";
+"HelpUrgence" = "Urgence";
+"HelpPolice" = "Police";
+"HelpGendarmerie" = "Gendarmerie Royale";
+
+// Statistics
+"StatisticsTitle" = "Dernières statistiques";
+"StatisticsSubTitle" = "Dernière mise à jour il y a 24 heures";
+"StatisticsNombreTotal" = "Statistiques depuis le début de l'épidémie";
+"StatisticsNombreCasConfirmes" = "Répartition par région";
+
+// Settings
+"SettingsAge" = "Tranche d'âge";
+"SettingsGenre" = "Genre";
+"SettingsRegion" = "Région";
+"SettingsProvince" = "Province ou préfecture";
+"SettingsLangue" = "Langue d'utilisation de l'application ";
+"SettingsDe18a40" = "15 à 25 ans";
+"SettingsDe40a60" = "26 à 40 ans";
+"SettingsDe60a70" = "41 à 65 ans";
+"SettingsDe70a100" = "66 ans et plus";
+"SettingsFemme" = "Femme";
+"SettingsHomme" = "Homme";
+"SettingsFrançais" = "Français";
+"SettingsArabe" = "العربية";
+"SettingsEnregistrer" = "Sauvegarder";
+
+// Upload Data
+"UploadTitle" = "Envoyer mes données";
+"UploadSubTitle" = "Utilisez cette interface uniquement si vous êtes contacté par les équipes du Ministère de la Santé.";
+
+"UploadSubTitleStep2" = "Envoyer les données collectées aux équipes du Ministère de la Santé";
+"UploadTitleCodePin" = "Merci de saisir le code communiqué par les équipes du Ministère de la Santé pour envoyer les données collectées.";
+"UploadConditionUpload" = "En envoyant, vous acceptez de partager les données Bluetooth anonymes collectées sur les autres smartphones qui se sont trouvés à proximité de vous pendant les 21 derniers jours. Ces données permettront de notifier les autres utilisateurs au risque d'exposition au Coronavirus «COVID-19»";
+"UploadSuccessMessage" = "Merci de votre geste citoyen!\n\nLes données ont été reçues avec succès par les équipes du Ministère de la santé";
+
+// Utils KeyWords
+"ShareAppTitle" = "Partagez l'application";
+"ShareAppSubTitle" = "Partagez l'application avec votre famille et vos proches.";
+"titleFAQ" = "Foire Aux Questions (FAQ)";
+"textFAQ" = "Tout ce que vous devez savoir";
+"URLFAQ" = "https://www.wiqaytna.ma/Default_Fr.aspx#nav-wiqaytna";
+
+"StatusCasConfirmes" = "Cas confirmés";
+"StatusGueris" = "Guéris";
+"StatusDeces" = "Décès";
+
+// Bar Bottom Navigation
+"BarBottomStatistics" = "Statistiques";
+"BarBottomAccueil" = "Accueil";
+"BarBottomConseils" = "Conseils";
+"BarBottomUpload" = "Téléverser";
+
+"ButtonDone" = "Effectué";
+"ButtonNext" = "Suivant";
+"buttonUploadData" = "Envoyer mes données";
+
+"Done" = "OK";
+"Select" = "Sélectionner";
+"Error" = "Erreur";
+"OK" = "OK";
+
+// Errors
+
+"verification_failed" = "Échec de la vérification. Veuillez réessayer";
+"invalid_number" = "Numéro de portable invalide";
+
+"unknown_error" = "Une erreur est survenue. Veuillez réessayer";
+"must_be_six_digit" = "Doit être un nombre à 6 chiffres";
+"invalid_user" = "Votre compte a été désactivé. Veuillez contacter le support.";
+"too_many_requests" = "Trop de demandes. Veuillez réessayer plus tard.";
+
+"service_ok_title" = "Wiqaytna analyse pour vous protéger";
+"service_ok_body" = "Partage cette application\nDemande à vos amis et à votre famille à aider";
+"service_not_ok_title" = "Attention:";
+"service_not_ok_body" = "Wiqaytna n'analyse pas.";
+"service_not_ok_action" = "Vérifiez l'application maintenant";
+
+"ble_not_supported" = "Cet appareil ne prend pas en charge BLE";

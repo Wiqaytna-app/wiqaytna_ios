@@ -1,0 +1,750 @@
+[
+  {
+    "code_region": "5",
+    "region_fr": "Béni Mellal-Khénifra",
+    "region_ar": "بني ملال -خنيفرة",
+    "provinces": [
+      {
+        "code_region": "5",
+        "code_province": "41",
+        "region_fr": "Béni Mellal-Khénifra",
+        "region_ar": "بني ملال -خنيفرة",
+        "province_fr": "Beni mellal",
+        "province_ar": "بني ملال"
+      },
+      {
+        "code_region": "5",
+        "code_province": "42",
+        "region_fr": "Béni Mellal-Khénifra",
+        "region_ar": "بني ملال -خنيفرة",
+        "province_fr": "Azilal",
+        "province_ar": "أزيلال"
+      },
+      {
+        "code_region": "5",
+        "code_province": "68",
+        "region_fr": "Béni Mellal-Khénifra",
+        "region_ar": "بني ملال -خنيفرة",
+        "province_fr": "Khenifra",
+        "province_ar": "خنيفرة"
+      },
+      {
+        "code_region": "5",
+        "code_province": "81",
+        "region_fr": "Béni Mellal-Khénifra",
+        "region_ar": "بني ملال -خنيفرة",
+        "province_fr": "Khouribga",
+        "province_ar": "خريبكة"
+      },
+      {
+        "code_region": "5",
+        "code_province": "2031",
+        "region_fr": "Béni Mellal-Khénifra",
+        "region_ar": "بني ملال -خنيفرة",
+        "province_fr": "Fquih ben salah",
+        "province_ar": "الفقيه بنصالح"
+      }
+    ]
+  },
+  {
+    "code_region": "6",
+    "region_fr": "Casablanca-Settat",
+    "region_ar": "الدار البيضاء-سطات",
+    "provinces": [
+      {
+        "code_region": "6",
+        "code_province": "30",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Mohammadia",
+        "province_ar": "المحمدية"
+      },
+      {
+        "code_region": "6",
+        "code_province": "79",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "El jadida",
+        "province_ar": "الجديدة"
+      },
+      {
+        "code_region": "6",
+        "code_province": "80",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Settat",
+        "province_ar": "سطات"
+      },
+      {
+        "code_region": "6",
+        "code_province": "82",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Benslimane",
+        "province_ar": "بنسليمان"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1702",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Casablanca",
+        "province_ar": "الدار البيضاء"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1703",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Hay hassani",
+        "province_ar": "الحي الحسني"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1704",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Ain chock",
+        "province_ar": "عين الشق"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1705",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Sidi bernoussi",
+        "province_ar": "سيدي البرنوصي"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1706",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Ben m'sick",
+        "province_ar": "ابن مسيك"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1707",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Moulay rachid",
+        "province_ar": "مولاي رشيد"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1709",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Nouaceur",
+        "province_ar": "النواصر"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1712",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Mediouna",
+        "province_ar": "مديونة"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1715",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Casablanca anfa",
+        "province_ar": "الدار البيضاء أنفا"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1716",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Al fida mers sultan",
+        "province_ar": "الفداء مرس السلطان"
+      },
+      {
+        "code_region": "6",
+        "code_province": "1717",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Ain sebaa hay mohammadi",
+        "province_ar": "عين السبع الحي المحمدي"
+      },
+      {
+        "code_region": "6",
+        "code_province": "2039",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Sidi bennour",
+        "province_ar": "سيدي بنور"
+      },
+      {
+        "code_region": "6",
+        "code_province": "2040",
+        "region_fr": "Casablanca-Settat",
+        "region_ar": "الدار البيضاء-سطات",
+        "province_fr": "Berrechid",
+        "province_ar": "برشيد"
+      }
+    ]
+  },
+  {
+    "code_region": "12",
+    "region_fr": "Dakhla-Oued Ed-Dahab",
+    "region_ar": "الداخلة- وادي الذهب",
+    "provinces": [
+      {
+        "code_region": "12",
+        "code_province": "70",
+        "region_fr": "Dakhla-Oued Ed-Dahab",
+        "region_ar": "الداخلة- وادي الذهب",
+        "province_fr": "Oued ed dahab",
+        "province_ar": "وادي الذهب"
+      },
+      {
+        "code_region": "12",
+        "code_province": "71",
+        "region_fr": "Dakhla-Oued Ed-Dahab",
+        "region_ar": "الداخلة- وادي الذهب",
+        "province_fr": "Aousserd",
+        "province_ar": "أوسرد"
+      }
+    ]
+  },
+  {
+    "code_region": "8",
+    "region_fr": "Drâa-Tafilalet",
+    "region_ar": "درعة -تافيلالت",
+    "provinces": [
+      {
+        "code_region": "8",
+        "code_province": "36",
+        "region_fr": "Drâa-Tafilalet",
+        "region_ar": "درعة -تافيلالت",
+        "province_fr": "Ouarzazate",
+        "province_ar": "ورزازات"
+      },
+      {
+        "code_region": "8",
+        "code_province": "37",
+        "region_fr": "Drâa-Tafilalet",
+        "region_ar": "درعة -تافيلالت",
+        "province_fr": "Zagora",
+        "province_ar": "زاكورة"
+      },
+      {
+        "code_region": "8",
+        "code_province": "69",
+        "region_fr": "Drâa-Tafilalet",
+        "region_ar": "درعة -تافيلالت",
+        "province_fr": "Errachidia",
+        "province_ar": "الرشيدية"
+      },
+      {
+        "code_region": "8",
+        "code_province": "2029",
+        "region_fr": "Drâa-Tafilalet",
+        "region_ar": "درعة -تافيلالت",
+        "province_fr": "Tinghir",
+        "province_ar": "تنغير"
+      },
+      {
+        "code_region": "8",
+        "code_province": "2036",
+        "region_fr": "Drâa-Tafilalet",
+        "region_ar": "درعة -تافيلالت",
+        "province_fr": "Midelt",
+        "province_ar": "ميدلت"
+      }
+    ]
+  },
+  {
+    "code_region": "3",
+    "region_fr": "Fès-Meknès",
+    "region_ar": "فاس- مكناس",
+    "provinces": [
+      {
+        "code_region": "3",
+        "code_province": "39",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Taza",
+        "province_ar": "تازة"
+      },
+      {
+        "code_region": "3",
+        "code_province": "40",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Taounate",
+        "province_ar": "تاونات"
+      },
+      {
+        "code_region": "3",
+        "code_province": "46",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Sefrou",
+        "province_ar": "صفرو"
+      },
+      {
+        "code_region": "3",
+        "code_province": "47",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Boulemane",
+        "province_ar": "بولمان"
+      },
+      {
+        "code_region": "3",
+        "code_province": "66",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "El hajeb",
+        "province_ar": "الحاجب"
+      },
+      {
+        "code_region": "3",
+        "code_province": "67",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Ifrane",
+        "province_ar": "ايفران"
+      },
+      {
+        "code_region": "3",
+        "code_province": "1708",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Fes",
+        "province_ar": "فاس"
+      },
+      {
+        "code_region": "3",
+        "code_province": "1710",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Moulay yacoub",
+        "province_ar": "مولاي يعقوب"
+      },
+      {
+        "code_region": "3",
+        "code_province": "1713",
+        "region_fr": "Fès-Meknès",
+        "region_ar": "فاس- مكناس",
+        "province_fr": "Meknes",
+        "province_ar": "مكناس"
+      }
+    ]
+  },
+  {
+    "code_region": "10",
+    "region_fr": "Guelmim-Oued Noun",
+    "region_ar": "كلميم -واد نون",
+    "provinces": [
+      {
+        "code_region": "10",
+        "code_province": "48",
+        "region_fr": "Guelmim-Oued Noun",
+        "region_ar": "كلميم -واد نون",
+        "province_fr": "Guelmim",
+        "province_ar": "كلميم"
+      },
+      {
+        "code_region": "10",
+        "code_province": "50",
+        "region_fr": "Guelmim-Oued Noun",
+        "region_ar": "كلميم -واد نون",
+        "province_fr": "Assa-Zag",
+        "province_ar": "أسا - الزاك"
+      },
+      {
+        "code_region": "10",
+        "code_province": "52",
+        "region_fr": "Guelmim-Oued Noun",
+        "region_ar": "كلميم -واد نون",
+        "province_fr": "Tan-tan",
+        "province_ar": "طانطان"
+      },
+      {
+        "code_region": "10",
+        "code_province": "2028",
+        "region_fr": "Guelmim-Oued Noun",
+        "region_ar": "كلميم -واد نون",
+        "province_fr": "Sidi ifni",
+        "province_ar": "سيدي إفني"
+      }
+    ]
+  },
+  {
+    "code_region": "2",
+    "region_fr": "L'oriental",
+    "region_ar": "الشرق",
+    "provinces": [
+      {
+        "code_region": "2",
+        "code_province": "72",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Oujda-Angad",
+        "province_ar": "وجدة-انجاد"
+      },
+      {
+        "code_region": "2",
+        "code_province": "73",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Jerada",
+        "province_ar": "جرادة"
+      },
+      {
+        "code_region": "2",
+        "code_province": "74",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Berkane",
+        "province_ar": "بركان"
+      },
+      {
+        "code_region": "2",
+        "code_province": "75",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Taourirt",
+        "province_ar": "تاوريرت"
+      },
+      {
+        "code_region": "2",
+        "code_province": "76",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Figuig",
+        "province_ar": "فجيج"
+      },
+      {
+        "code_region": "2",
+        "code_province": "77",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Nador",
+        "province_ar": "الناضور"
+      },
+      {
+        "code_region": "2",
+        "code_province": "2030",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Guercif",
+        "province_ar": "جرسيف"
+      },
+      {
+        "code_region": "2",
+        "code_province": "2037",
+        "region_fr": "L'oriental",
+        "region_ar": "الشرق ",
+        "province_fr": "Driouch",
+        "province_ar": "الدريوش"
+      }
+    ]
+  },
+  {
+    "code_region": "11",
+    "region_fr": "Laâyoune-Sakia El Hamra",
+    "region_ar": "العيون- الساقية الحمراء",
+    "provinces": [
+      {
+        "code_region": "11",
+        "code_province": "51",
+        "region_fr": "Laâyoune-Sakia El Hamra",
+        "region_ar": "العيون- الساقية الحمراء",
+        "province_fr": "Es-semara",
+        "province_ar": "السمارة"
+      },
+      {
+        "code_region": "11",
+        "code_province": "55",
+        "region_fr": "Laâyoune-Sakia El Hamra",
+        "region_ar": "العيون- الساقية الحمراء",
+        "province_fr": "Laayoune",
+        "province_ar": "العيون"
+      },
+      {
+        "code_region": "11",
+        "code_province": "56",
+        "region_fr": "Laâyoune-Sakia El Hamra",
+        "region_ar": "العيون- الساقية الحمراء",
+        "province_fr": "Boujdour",
+        "province_ar": "بوجدور"
+      },
+      {
+        "code_region": "11",
+        "code_province": "2034",
+        "region_fr": "Laâyoune-Sakia El Hamra",
+        "region_ar": "العيون- الساقية الحمراء",
+        "province_fr": "Tarfaya",
+        "province_ar": "طرفاية"
+      }
+    ]
+  },
+  {
+    "code_region": "7",
+    "region_fr": "Marrakech-Safi",
+    "region_ar": "مراكش- آسفي",
+    "provinces": [
+      {
+        "code_region": "7",
+        "code_province": "60",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Chichaoua",
+        "province_ar": "شيشاوة"
+      },
+      {
+        "code_region": "7",
+        "code_province": "61",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Al haouz",
+        "province_ar": "الحوز"
+      },
+      {
+        "code_region": "7",
+        "code_province": "62",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "El kelaa des sraghna",
+        "province_ar": "قلعة السراغنة"
+      },
+      {
+        "code_region": "7",
+        "code_province": "63",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Essaouira",
+        "province_ar": "الصويرة"
+      },
+      {
+        "code_region": "7",
+        "code_province": "78",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Safi",
+        "province_ar": "أسفي"
+      },
+      {
+        "code_region": "7",
+        "code_province": "1711",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Marrakech",
+        "province_ar": "مراكش"
+      },
+      {
+        "code_region": "7",
+        "code_province": "2035",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Rehamna",
+        "province_ar": "الرحامنة"
+      },
+      {
+        "code_region": "7",
+        "code_province": "2038",
+        "region_fr": "Marrakech-Safi",
+        "region_ar": "مراكش- آسفي",
+        "province_fr": "Youssoufia",
+        "province_ar": "اليوسفية"
+      }
+    ]
+  },
+  {
+    "code_region": "4",
+    "region_fr": "Rabat-Salé-Kénitra",
+    "region_ar": "الرباط -سلا -القنيطرة",
+    "provinces": [
+      {
+        "code_region": "4",
+        "code_province": "17",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Rabat",
+        "province_ar": "الرباط"
+      },
+      {
+        "code_region": "4",
+        "code_province": "20",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Skhirate-Temara",
+        "province_ar": "الصخيرات تمارة"
+      },
+      {
+        "code_region": "4",
+        "code_province": "21",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Khemisset",
+        "province_ar": "الخميسات"
+      },
+      {
+        "code_region": "4",
+        "code_province": "53",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Kenitra",
+        "province_ar": "القنيطرة"
+      },
+      {
+        "code_region": "4",
+        "code_province": "54",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Sidi kacem",
+        "province_ar": "سيدي قاسم"
+      },
+      {
+        "code_region": "4",
+        "code_province": "1701",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Sale",
+        "province_ar": "سلا"
+      },
+      {
+        "code_region": "4",
+        "code_province": "2032",
+        "region_fr": "Rabat-Salé-Kénitra",
+        "region_ar": "الرباط -سلا -القنيطرة",
+        "province_fr": "Sidi slimane",
+        "province_ar": "سيدي سليمان"
+      }
+    ]
+  },
+  {
+    "code_region": "9",
+    "region_fr": "Souss-Massa",
+    "region_ar": "سوس- ماسة",
+    "provinces": [
+      {
+        "code_region": "9",
+        "code_province": "31",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Agadir ida outanane",
+        "province_ar": "أكادير- إدا وتنان"
+      },
+      {
+        "code_region": "9",
+        "code_province": "32",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Inezgane-Ait melloul",
+        "province_ar": "إنزكان أيت ملول"
+      },
+      {
+        "code_region": "9",
+        "code_province": "33",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Chtouka-Ait baha",
+        "province_ar": "اشتوكة ايت باها"
+      },
+      {
+        "code_region": "9",
+        "code_province": "34",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Taroudannt",
+        "province_ar": "تارودانت"
+      },
+      {
+        "code_region": "9",
+        "code_province": "35",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Tiznit",
+        "province_ar": "تيزنيت"
+      },
+      {
+        "code_region": "9",
+        "code_province": "49",
+        "region_fr": "Souss-Massa",
+        "region_ar": "سوس- ماسة",
+        "province_fr": "Tata",
+        "province_ar": "طاطا"
+      }
+    ]
+  },
+  {
+    "code_region": "1",
+    "region_fr": "Tanger-Tetouan-Al Hoceima",
+    "region_ar": "طنجة- تطوان -الحسيمة",
+    "provinces": [
+      {
+        "code_region": "1",
+        "code_province": "38",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Al hoceima",
+        "province_ar": "الحسيمة"
+      },
+      {
+        "code_region": "1",
+        "code_province": "83",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Tanger-Assilah",
+        "province_ar": "طنجة-اصيلة"
+      },
+      {
+        "code_region": "1",
+        "code_province": "85",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Tetouan",
+        "province_ar": "تطوان"
+      },
+      {
+        "code_region": "1",
+        "code_province": "86",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Larache",
+        "province_ar": "العرائش"
+      },
+      {
+        "code_region": "1",
+        "code_province": "87",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Chefchaouen",
+        "province_ar": "شفشاون"
+      },
+      {
+        "code_region": "1",
+        "code_province": "1714",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Fahs-Anjara",
+        "province_ar": "الفحص- أنجرة"
+      },
+      {
+        "code_region": "1",
+        "code_province": "1792",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "M'diq-Fnidq",
+        "province_ar": "المضيق - الفنيدق"
+      },
+      {
+        "code_region": "1",
+        "code_province": "2033",
+        "region_fr": "Tanger-Tetouan-Al Hoceima",
+        "region_ar": "طنجة- تطوان -الحسيمة",
+        "province_fr": "Ouezzane",
+        "province_ar": "وزان"
+      }
+    ]
+  }
+]
