@@ -4,8 +4,7 @@
 
 
 
-Wiqaytna is the official Moroccan exposure norification app, based on the protocol Bluetrace implementation
-
+Wiqaytna is the official Moroccan exposure notification app.
 ---
 
 
