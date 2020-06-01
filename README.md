@@ -2,9 +2,12 @@
 
 ![alt text](./wiqaytna_logo.png "Wiqaytna Logo")
 
-Wiqaytna is a Moroccan Contact tracing app, based on the project [OpenTrace](https://github.com/opentrace-community/opentrace-ios)
+
+
+Wiqaytna is the official Moroccan exposure norification app, based on the protocol Bluetrace implementation
 
 ---
+
 
 ## Building the code
 
