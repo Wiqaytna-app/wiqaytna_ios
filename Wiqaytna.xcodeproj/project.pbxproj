@@ -71,6 +71,7 @@
 		7F36305F23F7F81400CC6E1D /* PushNotificationConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F36305E23F7F81400CC6E1D /* PushNotificationConstants.swift */; };
 		7FEC361523F16A1E00127AFB /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEC361423F16A1E00127AFB /* UIViewExtension.swift */; };
 		844ABF532479694A0013A2A6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 844ABF512479694A0013A2A6 /* Localizable.strings */; };
+		84FB3A0A2488445200168758 /* UIRefreshControlExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FB3A092488445200168758 /* UIRefreshControlExtension.swift */; };
 		87260F2E243D9C51009C6E14 /* PogoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87260F2D243D9C51009C6E14 /* PogoManager.swift */; };
 		872DCEA7243DBDDF0014B07E /* BlueTraceLocalNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872DCEA6243DBDDF0014B07E /* BlueTraceLocalNotifications.swift */; };
 		872DCEA9243DD1C00014B07E /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 872DCEA8243DD1C00014B07E /* Logger.swift */; };
@@ -166,6 +167,7 @@
 		7FEC361423F16A1E00127AFB /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		844ABF522479694A0013A2A6 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		844ABF54247969550013A2A6 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		84FB3A092488445200168758 /* UIRefreshControlExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIRefreshControlExtension.swift; sourceTree = "<group>"; };
 		87260F2D243D9C51009C6E14 /* PogoManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PogoManager.swift; sourceTree = "<group>"; };
 		872DCEA6243DBDDF0014B07E /* BlueTraceLocalNotifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueTraceLocalNotifications.swift; sourceTree = "<group>"; };
 		872DCEA8243DD1C00014B07E /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
@@ -173,7 +175,6 @@
 		8E400142245E62CA00D01F40 /* SettingsRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRepository.swift; sourceTree = "<group>"; };
 		8E47CC82245F2DC600200546 /* regions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = regions.json; sourceTree = "<group>"; };
 		8E8CED4A2467684D0034A6B9 /* TracerRemoteConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TracerRemoteConfig.swift; sourceTree = "<group>"; };
-		8EB5C4BF2482DB1D009F1766 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A192DCFC57A97918FACD0ABA /* Pods_Wiqaytna.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Wiqaytna.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B605A7AE24273642008BA819 /* UploadDataSuccessVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadDataSuccessVC.swift; sourceTree = "<group>"; };
 		B605A7B02427429D008BA819 /* PlistHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlistHelper.swift; sourceTree = "<group>"; };
@@ -490,6 +491,7 @@
 				7FEC361423F16A1E00127AFB /* UIViewExtension.swift */,
 				C5D209FB23F4476F007233BE /* UITextViewFixed.swift */,
 				B60F8BE3242659810007A641 /* UILabelExtension.swift */,
+				84FB3A092488445200168758 /* UIRefreshControlExtension.swift */,
 			);
 			path = UIElements;
 			sourceTree = "<group>";
@@ -803,6 +805,7 @@
 				B65553542427512B0007F031 /* FirebaseAPIs.swift in Sources */,
 				04D376282453C3BA00019133 /* UpdateLanguage.swift in Sources */,
 				D81F6C8C24348CC200E4F52F /* BluetraceProtocol.swift in Sources */,
+				84FB3A0A2488445200168758 /* UIRefreshControlExtension.swift in Sources */,
 				7F2F0BA223EFFF75006D7404 /* PermissionsViewController.swift in Sources */,
 				7F36305F23F7F81400CC6E1D /* PushNotificationConstants.swift in Sources */,
 				B615C5A923FA403500345969 /* UIViewController + Extension.swift in Sources */,
@@ -834,7 +837,6 @@
 			children = (
 				844ABF522479694A0013A2A6 /* fr */,
 				844ABF54247969550013A2A6 /* ar */,
-				8EB5C4BF2482DB1D009F1766 /* en */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

@@ -107,9 +107,10 @@ class HomeViewController: UIViewController {
         }
         
     }
-    
+
     private func setScrollView() {
-        
+        scrollView.refreshControl = UIRefreshControl.defaultRefreshControl(self, selectorAction: #selector(getDataStatistics))
+
         scrollView.addSubview(screenStack)
         screenStack.translatesAutoresizingMaskIntoConstraints = false
         screenStack.leadingAnchor.constraint(equalTo: scrollView.leadingAnchor).isActive = true
@@ -119,15 +120,16 @@ class HomeViewController: UIViewController {
         screenStack.widthAnchor.constraint(equalTo: scrollView.widthAnchor).isActive = true
     }
     
-    func getDataStatistics() {
-        
+    @objc func getDataStatistics() {
+
         if AppDelegate.statsDict != nil {
             self.displayStats(statsDict: AppDelegate.statsDict!)
             return
         }
         self.activityIndicator.startAnimating()
         self.view.bringSubviewToFront(activityIndicator)
-        StatisticsServices.statistics { (statsDict) in
+        StatisticsServices.statistics { [weak self] (statsDict) in
+            guard let self = self else { return }
             self.activityIndicator.stopAnimating()
             if let _ = statsDict["new_confirmed"] {
                 AppDelegate.statsDict = statsDict
@@ -138,7 +140,8 @@ class HomeViewController: UIViewController {
     }
     
     private func displayStats(statsDict:[String: Any]) {
-        
+        scrollView.refreshControl?.endRefreshing()
+
         if let new_confirmed: Int = statsDict["new_confirmed"] as? Int {
             self.NbCasConfirmes.text = String(new_confirmed)
         }

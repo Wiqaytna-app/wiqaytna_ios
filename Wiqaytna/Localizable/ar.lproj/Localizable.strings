@@ -150,3 +150,6 @@
 "service_not_ok_action" = "تحقق من التطبيق الآن ";
 
 "ble_not_supported" =    "هذا الجهاز لا يدعم  بلوتوث BLE";
+
+//
+"pull_to_refresh" = "اسحب للتحديث";
