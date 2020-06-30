@@ -77,7 +77,8 @@ class StatisticsPageViewController: UIViewController {
     }
     
     private func setScrollView() {
-        
+        scrollView.refreshControl = UIRefreshControl.defaultRefreshControl(self, selectorAction: #selector(getDataStatistics))
+
         scrollView.addSubview(stackView)
         stackView.translatesAutoresizingMaskIntoConstraints = false
         stackView.leadingAnchor.constraint(equalTo: scrollView.leadingAnchor).isActive = true
@@ -87,20 +88,21 @@ class StatisticsPageViewController: UIViewController {
         stackView.widthAnchor.constraint(equalTo: scrollView.widthAnchor).isActive = true
     }
     
-    func getDataStatistics() {
-        
+    @objc func getDataStatistics() {
+
         if AppDelegate.statsDict != nil {
             self.displayStats(statsDict: AppDelegate.statsDict!)
             return
         }
-        StatisticsServices.statistics { (statsDict) in
-            print(statsDict)
+        StatisticsServices.statistics { [weak self] (statsDict) in
+            guard let self = self else { return }
             self.displayStats(statsDict: statsDict)
             UserDefaults.standard.set(Date(), forKey: AppDelegate.lastUpdateStatsKey)
         }
     }
     
     private func displayStats(statsDict: [String: Any]) {
+        scrollView.refreshControl?.endRefreshing()
         
         if let new_confirmed: Int = statsDict["new_confirmed"] as? Int {
             self.LabelCasConfirmesOneNb.text = String(new_confirmed)

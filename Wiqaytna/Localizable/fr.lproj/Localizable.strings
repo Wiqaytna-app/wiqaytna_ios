@@ -148,3 +148,6 @@
 "service_not_ok_action" = "Vérifiez l'application maintenant";
 
 "ble_not_supported" = "Cet appareil ne prend pas en charge BLE";
+
+//
+"pull_to_refresh" = "Tirer pour rafraîchir";
